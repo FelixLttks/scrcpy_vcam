@@ -1,0 +1,12 @@
+# build output
+bin/
+obj/
+*.obj
+*.exe
+*.dll
+*.lib
+*.exp
+*.pdb
+
+# test captures
+*.bmp
